@@ -10,7 +10,7 @@
 
 # Live Project 9 : Developer Landing Page
 
-## Project 9: [Live Link]()
+## Project 9: [Live Link](https://live-project-9-fs-js.netlify.app/)
 
 -   Skills Gained in this project.
     - Learned various flexbox properties.
