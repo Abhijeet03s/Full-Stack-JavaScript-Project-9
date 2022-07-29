@@ -6,7 +6,7 @@
 
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20CSS-blue)
 
-![Live Class](https://img.shields.io/badge/Live%20Project%208-Developer%20Landing%20Page-brightgreen)
+![Live Class](https://img.shields.io/badge/Live%20Project%209-Developer%20Landing%20Page-brightgreen)
 
 # Live Project 9 : Developer Landing Page
 
